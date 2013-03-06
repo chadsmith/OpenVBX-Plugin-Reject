@@ -1,0 +1,5 @@
+{
+    "name" : "Reject",
+    "description" : "Reject a call.",
+    "type" : "voice"
+}
